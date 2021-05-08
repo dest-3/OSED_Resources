@@ -22,7 +22,7 @@
 ### OSED Reviews and Guides
 
 ### General
-- [SecurityShift: Windows Exploit Development Part 1 - The Basics](#http://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- [Securitysift: Windows Exploit Development Part 1: The Basics](#http://www.securitysift.com/windows-exploit-development-part-1-basics/)
 
 ### Topics
 
