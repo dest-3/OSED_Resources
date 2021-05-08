@@ -6,8 +6,8 @@
 
 - [Resources](#resources)
   - [OSED Reviews and Guides](#osed-reviews-and-guides)
-  - [General](#general)
   - [Topics](#topics)
+    - [General](#general)
     - [Stack Buffer Overflow](#stack-buffer-overflow)
     - [SEH Exploitation](#seh-exploitation)
     - [Overcoming Space Restrictions](#egghunters)
@@ -21,10 +21,10 @@
 
 ### OSED Reviews and Guides
 
-### General
-- [Securitysift: Windows Exploit Development Basics](#https://www.securitysift.com/windows-exploit-development-part-1-basics/)
-
 ### Topics
+
+#### General
+- [Securitysift: Windows Exploit Development Basics](#https://www.securitysift.com/windows-exploit-development-part-1-basics/)
 
 #### Stack Buffer Overflow
 
