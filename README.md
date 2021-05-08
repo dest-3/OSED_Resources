@@ -6,7 +6,7 @@
 
 - [Resources](#resources)
   - [OSED Reviews and Guides](#osed-reviews-and-guides)
-  - [General Resources](#general)
+  - [General](#general)
   - [Topics](#topics)
     - [Stack Buffer Overflow](#stack-buffer-overflow)
     - [SEH Exploitation](#seh-exploitation)
