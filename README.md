@@ -1,5 +1,6 @@
 # OSED Resources
 
+> A curated list of resources for the OSED journey. 
 
 ## Contents
 
