@@ -24,7 +24,7 @@
 ### Topics
 
 #### General
-- [Securitysift: Windows Exploit Development Basics](#https://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- [Securitysift: Windows Exploit Development Basics](#http://www.securitysift.com/windows-exploit-development-part-1-basics)
 
 #### Stack Buffer Overflow
 
