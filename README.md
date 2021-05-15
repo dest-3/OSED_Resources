@@ -8,6 +8,7 @@
   - [OSED Reviews and Guides](#osed-reviews-and-guides)
   - [Topics](#topics)
     - [General](#general)
+    - [WinDBG](#windbg)
     - [Stack Buffer Overflow](#stack-buffer-overflow)
     - [SEH Exploitation](#seh-exploitation)
     - [Overcoming Space Restrictions](#egghunters)
@@ -24,7 +25,11 @@
 ### Topics
 
 #### General
-- [Securitysift: Windows Exploit Development Basics](#http://www.securitysift.com/windows-exploit-development-part-1-basics)
+- [Securitysift: Windows Exploit Development Basics](http://www.securitysift.com/windows-exploit-development-part-1-basics)
+
+#### WinDBG
+- [WinDBG. From A to Z](http://www.windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf)
+- [WinDBG Cheat sheet](https://sites.google.com/site/taesaza0/etc/windbgcheatsheet)
 
 #### Stack Buffer Overflow
 
@@ -38,6 +43,7 @@
 
 #### Custom Shellcode
 - [Corelan.be: Writing custom shellcode](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
+- [NCC Group: Writing Small shellcode](https://research.nccgroup.com/wp-content/uploads/2020/07/writing_small_shellcode.pdf)
 
 #### Mitigation Bypass
 
