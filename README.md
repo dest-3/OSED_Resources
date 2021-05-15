@@ -30,6 +30,8 @@
 #### WinDBG
 - [WinDBG. From A to Z](http://www.windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf)
 - [WinDBG Cheat sheet](https://sites.google.com/site/taesaza0/etc/windbgcheatsheet)
+- [Another cheat sheet](https://dblohm7.ca/pmo/windbgcheatsheet.html)
+- [WinDBG Readable (Dark) Theme](https://github.com/nextco/windbg-readable-theme)
 
 #### Stack Buffer Overflow
 
