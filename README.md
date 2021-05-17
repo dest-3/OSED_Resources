@@ -37,6 +37,7 @@
 
 #### SEH Exploitation
 - [FuzzySecurity: Structured Exploit Handler](https://www.fuzzysecurity.com/tutorials/expDev/3.html)
+- [Developing SEH Exploit for Integrad Pro](https://learnexploitdevelopment.com/developing-remote-seh-overwrite-exploit-for-integard-pro/)
 
 #### Egghunters
 - [FuzzySecurity: EggHunters](https://www.fuzzysecurity.com/tutorials/expDev/4.html)
