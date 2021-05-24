@@ -45,6 +45,8 @@
 #### Reversing
 
 #### Custom Shellcode
+- [Iredteam: Resolving kernel32.dll and function addresses](https://www.ired.team/offensive-security/code-injection-process-injection/finding-kernel32-base-and-function-addresses-in-shellcode)
+- [Writing win32 shellcode](https://www.fuzzysecurity.com/tutorials/expDev/6.html)
 - [Corelan.be: Writing custom shellcode](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
 - [NCC Group: Writing Small shellcode](https://research.nccgroup.com/wp-content/uploads/2020/07/writing_small_shellcode.pdf)
 
