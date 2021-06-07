@@ -41,6 +41,7 @@
 
 #### Egghunters
 - [FuzzySecurity: EggHunters](https://www.fuzzysecurity.com/tutorials/expDev/4.html)
+- [Safely Searching Process Virtual Address Space](http://www.hick.org/code/skape/papers/egghunt-shellcode.pdf)
 
 #### Reversing
 
