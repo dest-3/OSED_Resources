@@ -1,4 +1,4 @@
-# OSED Resources
+# OSED (EXP-301) Resources
 
 > A curated list of resources for the OSED journey. 
 
