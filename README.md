@@ -16,7 +16,6 @@
     - [Writing Custom Shellcode](#custom-shellcode)
     - [DEP/ASLR Bypass](#mitigation-bypass)
     - [Format String Attacks](#format-strings)
-    - [ROP](#rop)
 
 ## Resources
 
@@ -52,8 +51,8 @@
 - [NCC Group: Writing Small shellcode](https://research.nccgroup.com/wp-content/uploads/2020/07/writing_small_shellcode.pdf)
 
 #### Mitigation Bypass
+- [Corelan.be: DEP Bypass with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
 
 #### Format Strings
 
-#### ROP
 
