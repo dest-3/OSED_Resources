@@ -1,6 +1,6 @@
 # OSED (EXP-301) Resources
 
-> A curated list of resources for the OSED journey. 
+> A curated list of resources for the OSED journey.
 
 ## Contents
 
@@ -30,6 +30,7 @@
 - [WinDBG. From A to Z](http://www.windbg.info/download/doc/pdf/WinDbg_A_to_Z_color.pdf)
 - [WinDBG Cheat sheet](https://sites.google.com/site/taesaza0/etc/windbgcheatsheet)
 - [Another cheat sheet](https://dblohm7.ca/pmo/windbgcheatsheet.html)
+- [Another cheat sheet tailored to EXP-301](https://blog.lamarranet.com/wp-content/uploads/2021/09/WinDbg-Cheat-Sheet.pdf)
 - [WinDBG Readable (Dark) Theme](https://github.com/nextco/windbg-readable-theme)
 
 #### Stack Buffer Overflow
