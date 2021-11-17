@@ -53,6 +53,7 @@
 
 #### Mitigation Bypass
 - [Corelan.be: DEP Bypass with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
+- [Whitepaper on Bypassing ASLR and DEP](https://www.exploit-db.com/docs/english/17914-bypassing-aslrdep.pdf)
 
 #### Format Strings
 - [Osandamalith.com: Exploiting Fromat Strings in Windows](https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/)
