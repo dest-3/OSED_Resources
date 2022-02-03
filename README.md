@@ -16,6 +16,8 @@
     - [Writing Custom Shellcode](#custom-shellcode)
     - [DEP/ASLR Bypass](#mitigation-bypass)
     - [Format String Attacks](#format-strings)
+    - [Exploit Samples](#exploit-samples)
+    - [Helper Tools](#helper-tools)
 
 ## Resources
 
@@ -57,5 +59,12 @@
 
 #### Format Strings
 - [Osandamalith.com: Exploiting Fromat Strings in Windows](https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/)
+
+#### Exploit Samples
+- [dest-3:exploit_dev](https://github.com/dest-3/exploit_dev)
+
+#### Helper Tools
+- [JohnHammond: Rop Ripper](https://gist.github.com/JohnHammond/23d04ed8614192453e80f97d301e38d3)
+- [JohnHammond: Stack String](https://gist.github.com/JohnHammond/f78a9d878585bad232cba060c1d79623)
 
 
